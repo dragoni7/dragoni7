@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sam</h1>
-<h3 align="center">Senior Software Engineering Student</h3>
+<h3 align="center">New Grad Software Engineer</h3>
 
 
 - School projects from GitLab have been transferred here and organized into a list
