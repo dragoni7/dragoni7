@@ -4,7 +4,7 @@
   <li>🕹 Hobbiest modder and game dev.</li>
   <li>✏ Languages: <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="30" height="30"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a> </li>
   <li>📕 <a href="https://github.com/stars/dragoni7/lists/wsu-course-projects">School Projects</a></li>
-  <li>🟫 <a href="https://github.com/stars/dragoni7/lists/minecraft-mods-and-projects">Game Modding Projects</a></li>
+  <li>🟫 <a href="https://github.com/stars/dragoni7/lists/game-mods-and-projects">Game Modding Projects</a></li>
 </ul>
 
  <div>
