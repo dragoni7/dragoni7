@@ -12,6 +12,6 @@
    <img src="https://github-readme-stats.vercel.app/api?username=dragoni7&theme=blueberry&show_icons=true&hide_border=false&count_private=true" alt="Sam's Git Stats"/>
    <br>
    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dragoni7&theme=blueberry&langs_count=10&show_icons=true&locale=en&layout=compact" alt="Sam's Languages"/>
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dragoni7&theme=blueberry&hide_border=false" alt="Sam's Steaks", height=215/>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dragoni7&theme=blueberry&hide_border=false" alt="Sam's Streaks", height=215/>
 </div>
 
